@@ -2,7 +2,8 @@
 
 PDFAI é uma aplicação web desenvolvida com Streamlit que permite carregar, analisar e extrair informações de arquivos PDF de forma fácil e intuitiva.
 
-![PDFAI Logo](https://via.placeholder.com/800x400?text=PDFAI+-+Leitor+Inteligente+de+PDFs)
+![Captura de tela 2025-05-01 183358](https://github.com/user-attachments/assets/60916a09-67a8-4880-80d6-95b932905e36)
+
 
 ## Funcionalidades
 
